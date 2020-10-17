@@ -1,0 +1,29 @@
+{
+    "name": "eslint-configs",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "check-server-config": "eslint --config server.js ."
+    },
+    "description": "Personal eslint configs",
+    "homepage": "https://github.com/ilya-markevich/eslint-configs",
+    "bugs": {
+        "url": "https://github.com/ilya-markevich/eslint-configs/issues",
+        "email": "ilya.markevich1991@gmail.com"
+    },
+    "license": "MIT",
+    "author": {
+        "email": "ilya.markevich1991@gmail.com",
+        "name": "Ilya Markevich"
+    },
+    "repository": {
+        "url": "https://github.com/ilya-markevich/eslint-configs",
+        "type": "github"
+    },
+    "devDependencies": {
+        "eslint": "6.3.0"
+    },
+    "peerDependencies": {
+        "eslint": "6.x"
+    }
+}
