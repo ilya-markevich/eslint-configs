@@ -1,3 +1,7 @@
+## 1.0.3 (October 18, 2020)
+
+* Update eslint to 7.11.0 [#7](https://github.com/ilya-markevich/eslint-configs/pull/7)
+
 ## 1.0.2 (October 18, 2020)
 
 * Add changelog [#6](https://github.com/ilya-markevich/eslint-configs/pull/6)

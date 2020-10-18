@@ -1,6 +1,6 @@
 {
     "name": "eslint-configs",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "private": true,
     "scripts": {
         "check-server-config": "eslint --config server.js ."
@@ -21,9 +21,9 @@
         "type": "github"
     },
     "devDependencies": {
-        "eslint": "6.3.0"
+        "eslint": "7.11.0"
     },
     "peerDependencies": {
-        "eslint": "6.x"
+        "eslint": "7.x"
     }
 }
