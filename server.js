@@ -425,7 +425,31 @@ module.exports = {
         'rest-spread-spacing': OFF,
         'symbol-description': ERROR,
         'template-curly-spacing': ERROR,
-        'yield-star-spacing': OFF
+        'yield-star-spacing': OFF,
+        'no-import-assign': ERROR,
+        'prefer-regex-literals': [
+            ERROR,
+            {
+                disallowRedundantWrapping: true
+            }
+        ],
+        'default-param-last': ERROR,
+        'prefer-exponentiation-operator': OFF,
+        'no-setter-return': ERROR,
+        'no-dupe-else-if': ERROR,
+        'no-constructor-return': ERROR,
+        'grouped-accessor-pairs': ERROR,
+        'no-restricted-exports': [
+            ERROR,
+            {
+                restrictedNamedExports: []
+            }
+        ],
+        'no-useless-backreference': ERROR,
+        'default-case-last': ERROR,
+        'no-loss-of-precision': ERROR,
+        'no-unreachable-loop': ERROR,
+        'no-promise-executor-return': ERROR
     },
     env: {
         node: true,
