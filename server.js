@@ -453,10 +453,10 @@ module.exports = {
         'no-promise-executor-return': ERROR
     },
     overrides: [{
-        files: ["*.tests.js", "*.test.js", "*.spec.js"],
+        files: ['*.tests.js', '*.test.js', '*.spec.js'],
         rules: {
-            "no-magic-numbers": "off",
-            "max-nested-callbacks": "off"
+            'no-magic-numbers': 'off',
+            'max-nested-callbacks': 'off'
         }
     }],
     env: {
