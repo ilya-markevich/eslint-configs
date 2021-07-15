@@ -1,3 +1,15 @@
+## 1.0.5 (July 16, 2021)
+
+* Add overrides section for test files [#12](https://github.com/ilya-markevich/eslint-configs/pull/12)
+
+## 1.0.5 (July 15, 2021)
+
+* Increase max lines per function limit [#11](https://github.com/ilya-markevich/eslint-configs/pull/11)
+
+## 1.0.4 (July 15, 2021)
+
+* Add exclusions to magic numbers rule (for 0, 1 and -1) [#10](https://github.com/ilya-markevich/eslint-configs/pull/10)
+
 ## 1.0.3 (October 18, 2020)
 
 * Update eslint to 7.11.0 [#7](https://github.com/ilya-markevich/eslint-configs/pull/7)
