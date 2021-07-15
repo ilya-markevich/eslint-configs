@@ -1,4 +1,4 @@
-## 1.0.5 (July 16, 2021)
+## 1.0.6 (July 16, 2021)
 
 * Add overrides section for test files [#12](https://github.com/ilya-markevich/eslint-configs/pull/12)
 
