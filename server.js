@@ -112,7 +112,8 @@ module.exports = {
         'no-magic-numbers': [
             ERROR,
             {
-                ignoreArrayIndexes: true
+                ignoreArrayIndexes: true,
+                ignore: [0, 1, -1]
             }
         ],
         'no-multi-spaces': ERROR,
