@@ -456,7 +456,8 @@ module.exports = {
         files: ['*.tests.js', '*.test.js', '*.spec.js'],
         rules: {
             'no-magic-numbers': 'off',
-            'max-nested-callbacks': 'off'
+            'max-nested-callbacks': 'off',
+            'max-lines-per-function': 'off'
         }
     }],
     env: {
