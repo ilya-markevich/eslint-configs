@@ -1,5 +1,9 @@
 ## 1.0.6 (July 16, 2021)
 
+* Add exclusion for max lines per function for test files [#13](https://github.com/ilya-markevich/eslint-configs/pull/13)
+
+## 1.0.6 (July 16, 2021)
+
 * Add overrides section for test files [#12](https://github.com/ilya-markevich/eslint-configs/pull/12)
 
 ## 1.0.5 (July 15, 2021)
