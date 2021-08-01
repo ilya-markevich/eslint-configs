@@ -62,7 +62,7 @@ module.exports = {
         'accessor-pairs': OFF,
         'array-callback-return': ERROR,
         'block-scoped-var': ERROR,
-        'class-methods-use-this': ERROR,
+        'class-methods-use-this': OFF,
         complexity: [
             ERROR,
             {
