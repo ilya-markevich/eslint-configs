@@ -1,4 +1,8 @@
-## 1.0.6 (July 16, 2021)
+## 1.0.8 (August 2, 2021)
+
+* Disable class-methods-use-this rule [#14](https://github.com/ilya-markevich/eslint-configs/pull/14)
+
+## 1.0.7 (July 16, 2021)
 
 * Add exclusion for max lines per function for test files [#13](https://github.com/ilya-markevich/eslint-configs/pull/13)
 
