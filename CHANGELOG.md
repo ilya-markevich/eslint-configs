@@ -1,3 +1,11 @@
+## 1.0.10 (September 4, 2021)
+
+* Remove deprecated no-process-env rule [#16](https://github.com/ilya-markevich/eslint-configs/pull/15)
+
+## 1.0.9 (August 17, 2021)
+
+* Add files to ignore to .npmignore [#15](https://github.com/ilya-markevich/eslint-configs/pull/15)
+
 ## 1.0.8 (August 2, 2021)
 
 * Disable class-methods-use-this rule [#14](https://github.com/ilya-markevich/eslint-configs/pull/14)
