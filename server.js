@@ -175,7 +175,6 @@ module.exports = {
         'no-mixed-requires': ERROR,
         'no-new-require': ERROR,
         'no-path-concat': ERROR,
-        'no-process-env': ERROR,
         'no-process-exit': OFF,
         'no-restricted-modules': OFF,
         'no-sync': OFF,
