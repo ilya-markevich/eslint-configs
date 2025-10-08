@@ -5,9 +5,7 @@ import tsParser from '@typescript-eslint/parser';
 
 const {OFF, ERROR} = RULES_LEVELS;
 const MAX_CLASSES_IN_FILE = 2;
-const INDENT_SPACES = 4;
 const MAX_CODE_DEPTH = 4;
-const MAX_LINE_LENGTH = 150;
 const MAX_LINES_PER_FUNCTION = 120;
 const MAX_NESTED_CALLBACKS = 3;
 const MAX_FUNCTION_PARAMS = 4;
@@ -220,13 +218,6 @@ export default [
             'id-length': OFF,
             'id-match': OFF,
             'implicit-arrow-linebreak': OFF,
-            indent: [
-                ERROR,
-                INDENT_SPACES,
-                {
-                    SwitchCase: 1
-                }
-            ],
             'key-spacing': ERROR,
             'keyword-spacing': ERROR,
             'line-comment-position': ERROR,
@@ -241,10 +232,6 @@ export default [
             'max-depth': [
                 ERROR,
                 MAX_CODE_DEPTH
-            ],
-            'max-len': [
-                ERROR,
-                MAX_LINE_LENGTH
             ],
             'max-lines': OFF,
             'max-lines-per-function': [
