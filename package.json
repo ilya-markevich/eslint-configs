@@ -1,6 +1,6 @@
 {
     "name": "eslint-configs",
-    "version": "1.0.10",
+    "version": "2.0.0",
     "private": true,
     "scripts": {
         "check-server-config": "eslint --config server.js ."
@@ -12,6 +12,7 @@
         "email": "ilya.markevich1991@gmail.com"
     },
     "license": "MIT",
+    "type": "module",
     "author": {
         "email": "ilya.markevich1991@gmail.com",
         "name": "Ilya Markevich"
@@ -21,9 +22,14 @@
         "type": "github"
     },
     "devDependencies": {
-        "eslint": "7.11.0"
+        "eslint": "9.37.0"
     },
     "peerDependencies": {
-        "eslint": "7.x"
+        "eslint": "9.x"
+    },
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "8.46.0",
+        "@typescript-eslint/parser": "8.46.0",
+        "globals": "16.4.0"
     }
 }
