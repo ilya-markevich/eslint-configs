@@ -1,4 +1,4 @@
-import {RULES_LEVELS} from './constants.js';
+import {RULES_LEVELS} from './constants.mjs';
 import globals from 'globals';
 import tsEslint from '@typescript-eslint/eslint-plugin';
 import tsParser from '@typescript-eslint/parser';

@@ -3,7 +3,7 @@
     "version": "2.0.0",
     "private": true,
     "scripts": {
-        "check-server-config": "eslint --config server.js ."
+        "check-server-config": "eslint --config server.mjs ."
     },
     "description": "Personal eslint configs",
     "homepage": "https://github.com/ilya-markevich/eslint-configs",

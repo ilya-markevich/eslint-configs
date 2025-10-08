@@ -1,3 +1,7 @@
+## 2.0.0 (October 8, 2025)
+* Migrate to ESlint 9
+* Add typescript support
+
 ## 1.0.10 (September 4, 2021)
 
 * Remove deprecated no-process-env rule [#16](https://github.com/ilya-markevich/eslint-configs/pull/16)
