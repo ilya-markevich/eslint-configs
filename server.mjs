@@ -181,10 +181,6 @@ export default [
             'brace-style': OFF,
             camelcase: OFF,
             'capitalized-comments': ERROR,
-            'comma-dangle': [
-                ERROR,
-                'never'
-            ],
             'comma-spacing': [
                 ERROR,
                 {
