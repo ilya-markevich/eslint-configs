@@ -2,5 +2,5 @@
 My personal eslint configs. Used in pet projects
 
 ## Structure
-- server.js - eslint config for server side (services)
-- client.js - eslint config for client side (browser)
+- server.mjs - eslint config for server side (services)
+- client.mjs - eslint config for client side (browser)
