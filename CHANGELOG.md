@@ -1,4 +1,10 @@
+## 2.0.1 (October 9, 2025)
+
+* Add jest types support
+
+
 ## 2.0.0 (October 8, 2025)
+
 * Migrate to ESlint 9
 * Add typescript support
 

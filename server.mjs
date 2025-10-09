@@ -18,7 +18,8 @@ export default [
             sourceType: 'module',
             globals: {
                 ...globals.es2026,
-                ...globals.node
+                ...globals.node,
+                ...globals.jest
             }
         },
         rules: {
