@@ -1,3 +1,11 @@
+## 3.0.2 (October 11, 2025)
+
+* Use `projectService` option for ts files analysis
+
+## 3.0.1 (October 11, 2025)
+
+* Update package-lock JSON to up-to-date version
+
 ## 3.0.0 (October 11, 2025)
 
 * Add client config

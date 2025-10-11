@@ -43,6 +43,11 @@ jobs:
                     git fetch --prune --tags
                     chmod +x ./scripts/version-check.sh
                     ./scripts/version-check.sh
+
+            -   name: package.json and package-lock.json versions comparison
+                run: |
+                  chmod +x ./scripts/package-version-comparison.sh
+                  ./scripts/package-version-comparison.sh
     publish:
         name: Publish tag
         needs: version_check

@@ -436,7 +436,7 @@ export default ({
             parserOptions: {
                 sourceType: 'module',
                 ecmaVersion: 'latest',
-                project: true
+                projectService: true
             }
         },
         plugins: {
