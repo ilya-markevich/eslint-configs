@@ -26,7 +26,7 @@ jobs:
                 run: npm install
 
             -   name: Run tests
-                run: npm run check-server-config
+                run: npm run check-server-config && npm run check-client-config
     version_check:
         name: Package.json version check
         needs: test

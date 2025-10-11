@@ -1,3 +1,8 @@
+## 3.0.0 (October 11, 2025)
+
+* Add client config
+* Use base config to share rules between client and server
+
 ## 2.0.1 (October 9, 2025)
 
 * Add jest types support

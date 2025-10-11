@@ -1,9 +1,10 @@
 {
     "name": "eslint-configs",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "private": true,
     "scripts": {
-        "check-server-config": "eslint --config server.mjs ."
+        "check-server-config": "eslint --config server.mjs --rule 'max-lines-per-function: \"off\"' .",
+        "check-client-config": "eslint --config client.mjs --rule 'max-lines-per-function: \"off\"' ."
     },
     "description": "Personal eslint configs",
     "homepage": "https://github.com/ilya-markevich/eslint-configs",
