@@ -26,6 +26,8 @@ export default [
             'no-path-concat': ERROR,
             'no-process-exit': OFF,
             'no-inline-comments': ERROR,
+            'callback-return': OFF,
+            'require-atomic-updates': OFF,
         }
     }
 ];
