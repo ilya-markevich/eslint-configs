@@ -1,3 +1,9 @@
+## 3.0.3 (November 3, 2025)
+
+* Turn off 'arrow-parens' as it's style rule and configurable with prettier
+* [Server config] Turn off callback-return as it contradicts with middleware concept
+* [Server config] Turn off require-atomic-updates as it contradicts with middleware concept
+
 ## 3.0.2 (October 11, 2025)
 
 * Use `projectService` option for ts files analysis

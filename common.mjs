@@ -362,10 +362,7 @@ export default ({
                 ERROR,
                 'as-needed'
             ],
-            'arrow-parens': [
-                ERROR,
-                'as-needed'
-            ],
+            'arrow-parens': OFF,
             'arrow-spacing': [
                 ERROR,
                 {
