@@ -28,7 +28,6 @@ export default [
             'no-inline-comments': ERROR,
             'callback-return': OFF,
             'require-atomic-updates': OFF,
-
         }
     }
 ];
