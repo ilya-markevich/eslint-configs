@@ -1,3 +1,7 @@
+## 3.0.4 (November 5, 2025)
+
+* Turn off newline-per-chained-call as it contradicts with prettier
+
 ## 3.0.3 (November 3, 2025)
 
 * Turn off 'arrow-parens' as it's style rule and configurable with prettier

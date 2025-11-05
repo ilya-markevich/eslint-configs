@@ -249,12 +249,7 @@ export default ({
             'multiline-ternary': OFF,
             'new-cap': ERROR,
             'new-parens': ERROR,
-            'newline-per-chained-call': [
-                ERROR,
-                {
-                    ignoreChainWithDepth: 2
-                }
-            ],
+            'newline-per-chained-call': OFF,
             'no-array-constructor': ERROR,
             'no-bitwise': ERROR,
             'no-continue': ERROR,
