@@ -1,3 +1,7 @@
+## 3.0.5 (November 11, 2025)
+
+* Disable operator-linebreak as it will be deprecated
+
 ## 3.0.4 (November 5, 2025)
 
 * Turn off newline-per-chained-call as it contradicts with prettier
