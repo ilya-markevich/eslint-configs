@@ -1,6 +1,6 @@
 {
     "name": "eslint-configs",
-    "version": "3.0.4",
+    "version": "3.0.5",
     "private": true,
     "scripts": {
         "check-server-config": "eslint --config server.mjs --rule 'max-lines-per-function: \"off\"' .",

@@ -291,10 +291,7 @@ export default ({
             ],
             'one-var-declaration-per-line': OFF,
             'operator-assignment': OFF,
-            'operator-linebreak': [
-                ERROR,
-                'after'
-            ],
+            'operator-linebreak': OFF,
             'padded-blocks': [
                 ERROR,
                 'never'
